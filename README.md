@@ -110,7 +110,7 @@ open `backend/data/app.db` — you can click through the `users` and
 any job row to save it. Toggle "★ Saved" in the header to see just your
 saved jobs.
 
-## Protecting against fake jobs / fake companies
+## Protecting against fake jobs / fake companies/posts
 
 Job boards are a common target for scams (fake "recruiters" asking for
 upfront fees, wire transfers, etc.), so there are two layers of protection
