@@ -1,4 +1,9 @@
-# Outbound — Remote Job Aggregator
+Ms. Bandar Vaishnavi,
+
+vaishnavi1806@vardhaman.org,
+
+9966508284
+# MINI PROJECT —JWT_Recruitment
 
 Pulls remote job listings from multiple job boards (via Apify Actors),
 normalizes them into one schema, de-dupes overlapping postings, and serves
