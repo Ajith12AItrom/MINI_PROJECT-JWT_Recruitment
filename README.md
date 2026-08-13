@@ -1,8 +1,8 @@
-Ms. Bandar Vaishnavi,
+SuperVisor: Ms. Bandar Vaishnavi,
 
-vaishnavi1806@vardhaman.org,
+Email: vaishnavi1806@vardhaman.org,
 
-9966508284
+Contact: 9966508284
 # MINI PROJECT —JWT_Recruitment
 
 Pulls remote job listings from multiple job boards (via Apify Actors),
